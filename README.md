@@ -2,7 +2,7 @@
 <!--[![Website](https://img.shields.io/badge/Website-mathieumauron.fr-0f172a?style=flat-square&logo=googlechrome&logoColor=white)](https://mathieumauron.fr) -->
 [![GitHub](https://img.shields.io/badge/GitHub-MathieuMauron-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MathieuMauron)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mathieu%20Mauron-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathieu-mauron/)
-[![Discord](https://img.shields.io/badge/Discord-@Matoonet-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/TON_DISCORD_ID)
+[![Discord](https://img.shields.io/badge/Discord-@Matoonet-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/543010902551822347)
 
 ## Main stack
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
