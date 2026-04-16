@@ -1,10 +1,26 @@
+<p align="center">
+  <img src="banner-mathieu-mauron.webp" alt="Mathieu Mauron banner" width="100%" />
+</p>
+
+<h1 align="center">Hi there, I'm Mathieu Mauron 👋</h1>
+
+<p align="center">
+  Développeur C# / .NET / ASP.NET Core / React / TypeScript
+</p>
+
+
+
 ## Me retrouver
+
 <!--[![Website](https://img.shields.io/badge/Website-mathieumauron.fr-0f172a?style=flat-square&logo=googlechrome&logoColor=white)](https://mathieumauron.fr) -->
 [![GitHub](https://img.shields.io/badge/GitHub-MathieuMauron-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MathieuMauron)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mathieu%20Mauron-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathieu-mauron/)
 [![Discord](https://img.shields.io/badge/Discord-@Matoonet-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/543010902551822347)
 
+
+
 ## Main stack
+
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
@@ -19,6 +35,7 @@
 ![Rider](https://img.shields.io/badge/Rider-000000?style=flat-square&logo=rider&logoColor=white)
 
 ## Also worked with
+
 ![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat-square)
 ![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![ADO.NET](https://img.shields.io/badge/ADO.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
@@ -37,3 +54,24 @@
 ![SoapUI](https://img.shields.io/badge/SoapUI-6CB33F?style=flat-square)
 ![Xamarin.Forms](https://img.shields.io/badge/Xamarin.Forms-3498DB?style=flat-square&logo=xamarin&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+
+
+
+## Gaming & Content
+
+![PlayStation](https://img.shields.io/badge/PlayStation-MaToOneT-003791?style=flat-square&logo=playstation&logoColor=white)
+[![Steam](https://img.shields.io/badge/Steam-MaToOneT-171A21?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561197971219157/)
+[![Twitch](https://img.shields.io/badge/Twitch-matoonet__-9146FF?style=flat-square&logo=twitch&logoColor=white)](https://www.twitch.tv/matoonet_)
+[![YouTube](https://img.shields.io/badge/YouTube-Matoonet%20Roleplay-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@matoonetroleplay6974)
+
+<!--
+## Featured projects
+
+### Project name
+Courte description du projet.
+
+**Stack:** ASP.NET Core, React, PostgreSQL
+
+[Voir le projet](URL_DU_PROJET)
+-->
